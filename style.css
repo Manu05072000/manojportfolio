@@ -171,7 +171,7 @@ text-align: center;
 background: .2rem solid var(--bg-color);
 }
 .skills-box img{
- border: 1px 
+ border: 1px; 
   border-radius: 15px;
   padding: 8px; 
   width: 150px;
